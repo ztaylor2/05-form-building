@@ -46,3 +46,8 @@ a:visited {
 /*FORM STYLES
 =======================================*/
 /*TODO: Add the CSS needed to style the form*/
+
+label {
+  display: block;
+  padding: 10px;
+}
